@@ -5,6 +5,6 @@ Objetivo: Aplicar principios de porgramación.
 
 Integrantes: 
 
-Gaio Cesar Jojoa Urrutia
+Gaio Cesar Jojoa Urrutia; 
 Samuel Alejandro Lopez
 ; 
